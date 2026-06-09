@@ -30,7 +30,7 @@ Trinity es una plataforma para fanáticos del deporte y los eSports. Un espacio 
 |--------------------|--------------------------|-----------------------------------------------------|
 | Rodriguez Santiago | Backend e implementación | [Ver perfil](https://github.com/Smokyy14)           |
 | Abreu Lucia        | Diseñadora web           | [Ver perfil](https://github.com/luciabreu627)       |
-| Martinez Facundo   | Inteligencia             | [Ver perfil](https://github.com/facundomartinez457) |
+| Martinez Facundo   | Investigación            | [Ver perfil](https://github.com/facundomartinez457) |
 
 ---
 
